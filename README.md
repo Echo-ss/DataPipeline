@@ -446,3 +446,4 @@
     $ sudo rm -rf /tmp/kafka-logs  // kafka-logs 디렉토리를 삭제 또는 mv로 이름 바꾸기
 
 
+###### 데이터 저장/처리 - Big query 구성하기
