@@ -447,3 +447,7 @@
 
 
 ###### 데이터 저장/처리 - Big query 구성하기
+
+###### 데이터 저장/처리 - Google cloud storage 구성하기
+
+###### 데이터 조회 - Zeppelin 구성하기
