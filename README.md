@@ -446,8 +446,8 @@
     $ sudo rm -rf /tmp/kafka-logs  // kafka-logs 디렉토리를 삭제 또는 mv로 이름 바꾸기
 
 
-###### 데이터 저장/처리 - Big query 구성하기
+###### 데이터 저장/처리 - Big query 추가 구성해보기
 
-###### 데이터 저장/처리 - Google cloud storage 구성하기
+###### 데이터 저장/처리 - Google cloud storage 추가 구성해보기
 
-###### 데이터 조회 - Zeppelin 구성하기
+###### 데이터 조회 - Zeppelin 추가 구성해보기
